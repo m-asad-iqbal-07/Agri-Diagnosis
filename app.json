@@ -1,0 +1,14 @@
+{
+  
+  "expo": {
+    "name": "MBB",
+    "slug": "MBB",
+    "version": "1.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+      
+    }
+  }
+}
